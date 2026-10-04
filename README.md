@@ -10,6 +10,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
@@ -21,6 +22,7 @@
 | [0020-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
@@ -28,6 +30,7 @@
 | [0020-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,4 +40,9 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
