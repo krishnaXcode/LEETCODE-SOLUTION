@@ -41,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
@@ -102,6 +103,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -113,6 +115,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
