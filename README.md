@@ -45,6 +45,7 @@
 | [0020-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0043-multiply-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0856-score-of-parentheses) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0043-multiply-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
