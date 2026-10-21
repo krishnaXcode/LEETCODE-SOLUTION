@@ -113,11 +113,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0029-divide-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0043-multiply-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3723-maximize-sum-of-squares-of-digits) |
