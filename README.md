@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0043-multiply-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
