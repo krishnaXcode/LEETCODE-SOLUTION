@@ -4,7 +4,7 @@ var promiseAll = function(functions) {
             resolve([]);
             return;
         }
-
+        
         const res = new Array(functions.length);
         let resolvedCount = 0;
         let isRejected = false;
@@ -26,9 +26,4 @@ var promiseAll = function(functions) {
                 });
         });
     });
-};
-
-/**
- * const promise = promiseAll([() => new Promise(res => res(42))])
- * promise.then(console.log); // [42]
- */
+}; 
