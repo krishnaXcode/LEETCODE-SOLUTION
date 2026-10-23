@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -74,6 +75,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0043-multiply-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
