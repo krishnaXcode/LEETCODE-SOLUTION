@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0015-3sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -96,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0015-3sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -183,4 +185,5 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
