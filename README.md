@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0015-3sum) |
+| [1254-number-of-closed-islands](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -29,6 +30,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
 |  |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -186,4 +190,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0015-3sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
