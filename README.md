@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0039-combination-sum) |
 | [1254-number-of-closed-islands](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -112,6 +113,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
