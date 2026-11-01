@@ -27,6 +27,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
