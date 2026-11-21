@@ -25,6 +25,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -84,6 +85,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -163,6 +165,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
 |  |
@@ -209,6 +212,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -255,6 +259,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
