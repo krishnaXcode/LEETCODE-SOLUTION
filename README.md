@@ -13,6 +13,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -184,6 +185,7 @@
 | [0043-multiply-strings](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0043-multiply-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -278,4 +280,16 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
