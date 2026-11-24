@@ -27,6 +27,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -188,6 +190,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -276,6 +279,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Ordered Set
 |  |
 | ------- |
@@ -292,4 +296,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishnaXcode/LEETCODE-SOLUTION/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
